@@ -61,7 +61,7 @@ The **easiest** way is via our compiled Mirror Official app: [Get Started](https
 
 The Mirror is a Roblox & UEFN alternative, an all-in-one game engine built on Godot.
 
-Akin to "Google Docs for game development", The Mirror is both the editor and the game that let's you build with friends in real-time. This saves you a plethora of time: Enjoy not having to worry about infrastructure, backend HTTP routes, websockets, asset management, authentication, netsync, and various systems from scratch.
+The goal is to be both the editor and the game, like Inception: build a world with friends in real-time. This saves you a plethora of work: Enjoy not having to worry about infrastructure, backend HTTP routes, websockets, asset management, authentication, netsync, and various systems from scratch.
 
 This repo is The Mirror's source code: the Godot app (client/server), the web server, and the docs in one place. We've included everything we can provide to help you build your games as fast as possible.
 
