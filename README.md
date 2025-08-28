@@ -1,5 +1,12 @@
-# Update
-As of November 2024, we've made the extremely difficult decision to transition from Godot but we have exciting things in store. Check out our "Thank You & Technical Reflections" below.
+# Update: From Godot to the Next Era
+
+We've announced more details about our new Mirror Engine, a TypeScript game engine. [Sign up for the alpha here](https://mirrorengine.io/alpha-signup).
+
+[![Mirror Engine is a new TypeScript game engine](https://img.youtube.com/vi/knxeNfux4lE/0.jpg)](https://www.youtube.com/watch?v=knxeNfux4lE)
+
+# Update: Nov 2024
+
+We've made the extremely difficult decision to transition from Godot but we have exciting things in store. Check out our "Thank You & Technical Reflections" below.
 
 Our V2 announcement will first be on Discord: https://themirror.space/discord
 
