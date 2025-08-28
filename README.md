@@ -8,7 +8,7 @@ We've announced more details about our new Mirror Engine, a TypeScript game engi
 
 We've made the extremely difficult decision to transition from Godot but we have exciting things in store. Check out our "Thank You & Technical Reflections" below.
 
-Our V2 announcement will first be on Discord: https://themirror.space/discord
+Our V2 announcement will first be on Discord: https://mirrorengine.io/discord
 
 After the V2 announcement, this existing code based will be moved to `/mirror-classic` in this repo and "Mirror Classic" will refer to the Godot code. Mirror Classic will remain permissively MIT-licensed and parts of the V2 are planned to be open-core.
 
