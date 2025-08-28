@@ -53,7 +53,7 @@ The **easiest** way is via our compiled Mirror Official app: [Get Started](https
 
 **3. Check out our [open-source announcement post](https://www.themirror.space/blog/freedom-to-own-open-sourcing-the-mirror)**
 
-**4. Subscribe on [Youtube](https://www.youtube.com/@JaredDMcCluskey).
+**4. Subscribe on [Youtube](https://www.youtube.com/@JaredDMcCluskey).**
 
 # What is The Mirror and why?
 
