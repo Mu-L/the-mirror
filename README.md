@@ -49,13 +49,11 @@ The **easiest** way is via our compiled Mirror Official app: [Get Started](https
 
 **1. Join our [Discord](https://discord.com/invite/CK6fH3Cynk)**
 
-**2. Check out our [Roadmap](https://github.com/orgs/the-mirror-gdp/projects/7)**
+**2. Read our docs: [Site](https://docs.themirror.space), [monorepo `/mirror-docs`](https://github.com/the-mirror-gdp/the-mirror/tree/dev/mirror-docs)**
 
-**3. Read our docs: [Site](https://docs.themirror.space), [monorepo `/mirror-docs`](https://github.com/the-mirror-gdp/the-mirror/tree/dev/mirror-docs)**
+**3. Check out our [open-source announcement post](https://www.themirror.space/blog/freedom-to-own-open-sourcing-the-mirror)**
 
-**4. Check out our [open-source announcement post](https://www.themirror.space/blog/freedom-to-own-open-sourcing-the-mirror)**
-
-**5. Follow us on [X/Twitter](https://twitter.com/themirrorgdp)**
+**4. Subscribe on [Youtube](https://www.youtube.com/@JaredDMcCluskey).
 
 # What is The Mirror and why?
 
